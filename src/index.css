@@ -1,0 +1,19 @@
+.comp {
+  border: 2px solid black;
+  min-height: 40px;
+  margin: 1px;
+}
+.container {
+  border: 1px solid black;
+  min-height: 40px;
+  padding: 8px;
+}
+
+.small-font {
+  font-size: small;
+}
+.render-identifier {
+  font-size: small;
+  text-align: end;
+  padding-right: 5px;
+}
